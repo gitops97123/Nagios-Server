@@ -213,3 +213,5 @@ Nagios Web Interface
 
 Open the URL http://192.168.245.148/nagios in your web browser. 
 
+![Nagios Server](https://github.com/gitops97123/Nagios-Server/blob/main/.icons/nagios-server.png?raw=true)
+
